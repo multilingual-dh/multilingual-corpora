@@ -12,6 +12,16 @@ This is *not a directory* but a moderately-opinionated, potentially one-time lis
 * [Scripta Sinica - 漢籍全文資料庫 ](http://hanchi.ihp.sinica.edu.tw/ihp/hanji.htm): 1,349 new titles and 754,200,198 characters of materials pertaining to the traditional Chinese classics
 * [The Bookshelf](https://new.shuge.org/): images + text for rare and ancient books.
 
+## French
+* [Epistemological Letters](https://curate.nd.edu/catalog?f[library_collections_pathnames_hierarchy_with_titles_sim][]=Epistemological+Letters|und%3Aks65h992w12): correspondence in English, German, and French about the field of physics between November 1973 and October 1984.
+
+## German
+* [EpiDat](http://www.steinheim-institut.de/cgi-bin/epidat?info=whatisepidat&lang=de&release=beta) database of Jewish tombstones (includes Jewish tombstones in Hebrew as well). As a database for Jewish gravestone epigraphy, epidat is used to inventory, document, edit and present epigraphic holdings. Currently inscriptions of Jewish cemeteries from nine centuries and six countries are made available via chronological, spatial and thematic approaches.
+* [Epistemological Letters](https://curate.nd.edu/catalog?f[library_collections_pathnames_hierarchy_with_titles_sim][]=Epistemological+Letters|und%3Aks65h992w12): correspondence in English, German, and French about the field of physics between November 1973 and October 1984.
+
+## Hebrew
+* [EpiDat](http://www.steinheim-institut.de/cgi-bin/epidat?info=whatisepidat&lang=de&release=beta) database of Jewish tombstones (includes Jewish tombstones in German as well). As a database for Jewish gravestone epigraphy, epidat is used to inventory, document, edit and present epigraphic holdings. Currently inscriptions of Jewish cemeteries from nine centuries and six countries are made available via chronological, spatial and thematic approaches.
+
 ## Japanese
 * [Aozora Search](https://artflsrv03.uchicago.edu/philologic4/aozora/): digitized text with Philologic text mining tools
 * [SAT Daizōkyō Text Database](https://21dzk.l.u-tokyo.ac.jp/SAT/index_en.html): full text of 85 volumes of Taishō Shinshū Daizōkyō (大正新脩大藏經). Digitizing and encoding project also encoding new characters.
