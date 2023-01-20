@@ -27,3 +27,6 @@ This is *not a directory* but a moderately-opinionated, potentially one-time lis
 * [SAT Daizōkyō Text Database](https://21dzk.l.u-tokyo.ac.jp/SAT/index_en.html): full text of 85 volumes of Taishō Shinshū Daizōkyō (大正新脩大藏經). Digitizing and encoding project also encoding new characters.
 * [Digital Tale of Genji](https://genji.dl.itc.u-tokyo.ac.jp/en/)
 * Organization: East Asia TEI Special Interest Group run by Kiyonori Nagasaki & A. Charles Muller with a [wiki](https://wiki.tei-c.org/index.php/SIG:East_Asian) and [GitHub](https://github.com/TEI-EAJ).
+
+## (Ottoman) Turkish
+* [Digital Scholarly Edition of Habsburg-Ottoman Diplomatic Sources 1500–1918](https://qhod.net) Arno Strohmeyer et al. 2022--, TEI digital scholarly edition of sources from Ottoman (Turkish) and Austrian (Early Modern German) archival holdings (with English translations for the Ottoman sources), currently focused on 18th century grand embassies.
